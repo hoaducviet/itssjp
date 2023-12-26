@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000/",
-  "homepage": "https://hoaducviet.github.io/itss_japaness",
+  "homepage": "https://hoaducviet.github.io/itssjp",
   "dependencies": {
     "@chakra-ui/icons": "^1.1.5",
     "@chakra-ui/react": "^1.8.8",
