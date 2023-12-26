@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/itssjp/static/css/main.c727ceea.css",
+    "main.js": "/itssjp/static/js/main.6c9dba7a.js",
+    "static/media/auth.png": "/itssjp/static/media/auth.32bcea8496862bd05394.png",
+    "static/media/Navbar.png": "/itssjp/static/media/Navbar.b1c65d8b8c17f7f948c6.png",
+    "index.html": "/itssjp/index.html",
+    "main.c727ceea.css.map": "/itssjp/static/css/main.c727ceea.css.map",
+    "main.6c9dba7a.js.map": "/itssjp/static/js/main.6c9dba7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c727ceea.css",
+    "static/js/main.6c9dba7a.js"
+  ]
+}
